@@ -7,7 +7,7 @@ const NewFeed = () => {
     <SafeAreaView style={styles.container}>
       <ScrollView style={styles.scrollView}>
         <Text style={styles.text}>
-          Day la new Feed
+          New Feed
     
         </Text>
       </ScrollView>
